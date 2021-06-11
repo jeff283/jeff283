@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeff Njoroge
 - 👀 I’m interested in web development and computer vison
 - 🌱 I’m currently learning web development using Django
-- 💞️ I’m looking to collaborate on backend using Django
+- 💞️ I’m looking to collaborate on backend projects involving the use of Django and openCV
 - 📫 How to reach me njorogejeff2019@gmail.com
 
 <!---
