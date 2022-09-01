@@ -21,13 +21,17 @@
 
 ![Python][python_badge] ![Django][django_badge]
 
-![JavaScript][javascript_badge] ![React][react_badge]
+![JavaScript][javascript_badge] ![React][react_badge] ![Angular][angular_badge]
 
-![HTML][html_badge] ![CSS][css_img]
+![HTML][html_badge] ![CSS][css_img] ![Bootstrap][bootstrap_badge]
 
 ![Heroku][heroku_badge] ![NGINX][nginx_badge] ![Git][git_badge]  
 
 ![PostgreSQL][postgresql_badge]  ![mySQL][mysql_badge]  ![SQLite][sqlite_badge]
+
+![Cpp][cpp_badge]
+
+![Php][php_badge]
 
 ---
 
@@ -68,10 +72,14 @@
 [linkedin_badge]: https://img.shields.io/badge/-LinkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
 [nginx_badge]: https://img.shields.io/badge/-nginx-ffffff?style=for-the-badge&logo=nginx&logoColor=009639 "NGINX"
 [postgresql_badge]: https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql_badge "PostgreSQL"
-[mysql_badge]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "mySQL"
+[mysql_badge]: https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=white "mySQL"
 [sqlite_badge]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white "SQLite"
 [python_badge]: https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python "Python"
 [react_badge]: https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react "React"
+[angular_badge]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular"
+[bootstrap_badge]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap"
+[php_badge]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "Php"
+[cpp_badge]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "Cpp"
 
 <!-- img references -->
 [github_stats_img]: https://github-readme-stats.vercel.app/api?username=jeff283&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jeff283 GitHub Stats"
