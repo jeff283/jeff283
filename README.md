@@ -3,8 +3,8 @@
 ---
 
 👋 Hi, I’m Jeff Njoroge  
-👨🏽‍💻 I am a passionate Full Stack Developer.
- - I am currently working on Django Projects.
+👨🏽‍💻 I am a Full Stack Developer.
+ - I also do arduino projects as a hobbyist.
 
 
 ---
@@ -29,7 +29,7 @@
 
 ![PostgreSQL][postgresql_badge]  ![mySQL][mysql_badge]  ![SQLite][sqlite_badge]
 
-![Cpp][cpp_badge]
+![Cpp][cpp_badge] ![Arduino][arduino_badge]
 
 ![Php][php_badge]
 
@@ -80,6 +80,7 @@
 [bootstrap_badge]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap"
 [php_badge]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "Php"
 [cpp_badge]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "Cpp"
+[arduino_badge]: https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white "Arduino"
 
 <!-- img references -->
 [github_stats_img]: https://github-readme-stats.vercel.app/api?username=jeff283&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jeff283 GitHub Stats"
