@@ -34,10 +34,7 @@
     </li>
     <!-- 3 -->
     <li>
-      <picture>
-        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="25" height="25">
-      </picture>&nbsp&nbspHere's my very own web <a href="https://github.com/jeff283">portfolio</a>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="25" height="25"/>&nbsp&nbspHere's my very own web <a href="https://github.com/jeff283">portfolio</a>
     </li>
     <!-- 4 -->
     <li>
