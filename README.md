@@ -1,19 +1,5 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
 
-  * {
-    font-family: "Montserrat", Arial;
-  }
 
-.centre-obj {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-left: 17%;
-  }
-</style>
-
-<!-- Displayed Text Starts Here -->
 
 <!-- Hello World Header -->
 
