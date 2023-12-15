@@ -34,7 +34,7 @@
     </li>
     <!-- 3 -->
     <li>
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="25" height="25"/>&nbsp&nbspHere's my very own web <a href="https://github.com/jeff283">portfolio</a>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />&nbsp&nbspHere's my very own web <a href="https://github.com/jeff283">portfolio</a>
     </li>
     <!-- 4 -->
     <li>
