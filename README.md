@@ -26,7 +26,7 @@
 <ul>
 <!-- 1 -->
     <li>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />&nbsp&nbspI'm currently learning MEAN Stack development
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />&nbsp&nbspI'm currently using the MERN Stack.
     </li>
     <!-- 2 -->
     <li>
