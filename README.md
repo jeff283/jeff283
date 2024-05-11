@@ -101,7 +101,7 @@
 
 <!-- link references -->
 
-[linkedin_link]: https://www.linkedin.com/in/jeff-njoroge-222a79211/ "LinkedIn"
+[linkedin_link]: https://www.linkedin.com/in/jefnjoroge/ "LinkedIn"
 [instagram_link]: https://www.instagram.com/chaudhraa/ "Instagram"
 [gmail_link]: mailto:njorogejeff2019@gmail.com "Gmail"
 
