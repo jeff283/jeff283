@@ -102,7 +102,7 @@
 <!-- link references -->
 
 [linkedin_link]: https://www.linkedin.com/in/jefnjoroge/ "LinkedIn"
-[instagram_link]: https://www.instagram.com/chaudhraa/ "Instagram"
+[instagram_link]: https://www.instagram.com/pepa.texcha/ "Instagram"
 [gmail_link]: mailto:njorogejeff2019@gmail.com "Gmail"
 
 <!-- badge references -->
