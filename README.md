@@ -34,7 +34,7 @@
     </li>
     <!-- 3 -->
     <li>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />&nbsp&nbspHere's my very own web <a href="https://github.com/jeff283">portfolio</a>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />&nbsp&nbspHere's my very own web <a href="https://www.jeffnjoroge.com/">portfolio</a>
     </li>
     <!-- 4 -->
     <li>
