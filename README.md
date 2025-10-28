@@ -1,4 +1,6 @@
-# Hi, I'm Jeff Njoroge<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40"/></b>
+<div align="center">
+
+# Hi, I'm Jeff Njoroge<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40"/>
 
 ## Fullstack TypeScript Developer
 
@@ -6,10 +8,13 @@ I build web applications and love exploring the intersection of software and har
 
 ### What I Do
 
-- 💻 Fullstack development with TypeScript
-- 🏗️ Architecture student with a passion for design
-- 🔧 Hardware enthusiast and PC builder
-<!-- - 🌐 Check out my [portfolio](https://www.jeffnjoroge.com/) -->
+💻 Fullstack development with TypeScript
+
+🏗️ Architecture student with a passion for design
+
+🔧 Hardware enthusiast and PC builder
+
+<!-- 🌐 Check out my [portfolio](https://www.jeffnjoroge.com/) -->
 
 ---
 
@@ -17,8 +22,9 @@ I build web applications and love exploring the intersection of software and har
 
 ![Top Langs][top_langs_img]
 
----
+</div>
 
+---
 
 <!-- img references -->
 
