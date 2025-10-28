@@ -6,6 +6,8 @@
 
 I build web applications and love exploring the intersection of software and hardware. When I'm not coding, you'll find me studying architecture or tinkering with PC builds.
 
+---
+
 ### What I Do
 
 💻 Fullstack development with TypeScript
